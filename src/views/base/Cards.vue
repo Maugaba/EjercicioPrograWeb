@@ -7,11 +7,7 @@
         </CCardHeader>
         <CCardBody>
           <p class="text-medium-emphasis small">
-            Cards are built with as little markup and styles as possible but
-            still manage to deliver a bunch of control and customization. Built
-            with flexbox, they offer easy alignment and mix well with other
-            CoreUI components. Cards have no top, left, and right margins by
-            default, so use
+            Las cartas son utilizadas para modificar cosas y muchas cosas y muchas mas
             <a href="https://coreui.io/docs/utilities/spacing"
               >spacing utilities</a
             >

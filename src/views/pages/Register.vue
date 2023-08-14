@@ -6,8 +6,8 @@
           <CCard class="mx-4">
             <CCardBody class="p-4">
               <CForm>
-                <h1>Register</h1>
-                <p class="text-medium-emphasis">Create your account</p>
+                <h1>Registro</h1>
+                <p class="text-medium-emphasis">Crear tu cuenta</p>
                 <CInputGroup class="mb-3">
                   <CInputGroupText>
                     <CIcon icon="cil-user" />

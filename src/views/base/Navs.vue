@@ -7,11 +7,7 @@
         </CCardHeader>
         <CCardBody>
           <p class="text-medium-emphasis small">
-            The base <code>.nav</code> component is built with flexbox and
-            provide a strong foundation for building all types of navigation
-            components. It includes some style overrides (for working with
-            lists), some link padding for larger hit areas, and basic disabled
-            styling.
+            The base <code>.nav</code> Aqui va muchos tipos de navegacion y todo tipo de cosas
           </p>
           <DocsExample href="components/nav.html#base-nav">
             <CNav>
